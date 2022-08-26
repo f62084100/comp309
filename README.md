@@ -1,9 +1,5 @@
-# comp309
-COMP 309/AIML421 Machine Learning Tools and Techniques Assignment 2: Data Exploration, Manipulation
 
-
-
-IF you want the assignment's solution, please add my wechat: fuji12345
+### IF you want the assignment's solution, please add my wechat: fuji12345
 
 
 COMP 309/AIML421 — Machine Learning Tools and Techniques
